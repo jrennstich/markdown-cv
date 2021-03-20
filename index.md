@@ -11,7 +11,7 @@ Professor International Social Work and Research Methods
 </div>
 
 
-# General Information
+## General Information
 
 Date of birth: 3 May 1971 ([Sikuati, Sabah, Malaysia](https://goo.gl/maps/AN6cX2KaQSC2))
 
