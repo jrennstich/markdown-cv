@@ -3,7 +3,7 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Joachim K. Rennstich
-Professor Internationale Soziale Arbeit und Empirische Sozialforschung
+Professor International Social Work and Research Methods
 
 <div id="webaddress">
 <a href="joachim@rennstich.com">joachim@rennstich.com</a>
@@ -11,9 +11,15 @@ Professor Internationale Soziale Arbeit und Empirische Sozialforschung
 </div>
 
 
-## Currently
+# General Information
 
-Standing on the shoulders of giants
+Date of birth: 3 May 1971 ([Sikuati, Sabah, Malaysia](https://goo.gl/maps/AN6cX2KaQSC2)) \
+Nationality: German \
+Marital status: not married, no children  \
+\newline
+ORCID: [\includegraphics[width=8pt]{img/orcid.pdf} 0000-0003-0577-7460](https://orcid.org/0000-0003-0577-7460)
+
+
 
 ### Specialized in
 
