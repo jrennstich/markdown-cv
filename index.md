@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV
 ---
 # Joachim K. Rennstich
 Professor International Social Work and Research Methods
